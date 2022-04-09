@@ -1,0 +1,31 @@
+body{
+    color: rgb(37, 3, 70);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.oscuro{
+    background-color: black;
+    color: antiquewhite;
+}
+.oscuro a{
+    color: white;
+    text-decoration: none;
+}
+.hero-section{
+    text-align: right;
+    background-image: url('../img/hero-section.png');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    color: white;
+    padding: 6.25rem 3.125rem;
+}
+.centradoPhoto{
+    border: solid;
+}
+#ubicacion{
+    margin: 0 auto;
+}
+.centrado{
+    width: 50%;
+    border: solid black;
+}
